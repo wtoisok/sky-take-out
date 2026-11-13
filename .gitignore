@@ -4,3 +4,6 @@
 *.class
 *Test.java
 **/test/
+
+# Local credentials; never commit this file.
+/sky-server/src/main/resources/application-local.properties

@@ -1,0 +1,4 @@
+# Copy to application-local.properties for local development.
+# This file is imported by application-dev.yml. Real values stay on your computer.
+ALIYUN_ACCESS_KEY_ID=replace-with-your-access-key-id
+ALIYUN_ACCESS_KEY_SECRET=replace-with-your-access-key-secret
